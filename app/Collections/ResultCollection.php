@@ -3,7 +3,7 @@
 namespace App\Collections;
 
 use App\Currency;
-use app\Result;
+use App\Result;
 
 class ResultCollection
 {
